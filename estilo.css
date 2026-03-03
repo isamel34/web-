@@ -1,0 +1,32 @@
+﻿body {
+    background-color: lightblue;
+}
+
+.general {
+    width: 80%;
+    margin: auto;
+    background-color: white;
+}
+
+header {
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+
+article {
+    background-color: lightgray;
+    margin: 10px;
+    padding: 10px;
+}
+
+aside {
+    background-color: gray;
+    padding: 10px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
